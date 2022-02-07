@@ -24,7 +24,7 @@
 "line_1",272,8,4,-,"Leader group and solo singer consecutive","LeaderGroupAndSoloSingerConsecutive"
 "line_1",288,8,5,-,"Leader group and unison predominant leader","LeaderGroupAndUnisonPredominantLeader"
 "line_1",320,8,6,-,"Leader group and social unison predominant group","LeaderGroupAndSocialUnisonPredominantGroup"
-"line_1",512,9,-,-,"Two groups of two or more singers interact as described for 7, above. The same rules for double coding apply.","GroupGroup"
+"line_1",512,9,-,-,"Two groups of two or more singers interact as described for 8, above. The same rules for double coding apply.","GroupGroup"
 "line_1",576,9,6,-,"Group group and social unison predominant group","GroupGroupAndSocialUnisonPredominantGroup"
 "line_1",768,9,8,-,"Group group and leader group","GroupGroupAndLeaderGroup"
 "line_1",1024,10,-,-,"A more integrated alternation of leader and chorus, whose parts overlap so that one begins before the other ends. In extreme cases the chorus may also be heard backing the leader during his or her own part. However, the leader is still predominant; his or her part is longer than that of the group and often more elaborate. The group’s activity supports and contrasts with the leader’s part.","LeaderGroupOverlap"
